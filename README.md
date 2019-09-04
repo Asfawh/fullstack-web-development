@@ -14,7 +14,7 @@ Build a large feedback-collection app. This mega app will include the full gamut
 - [ ] Communicate data from Mongo database to React application
 - [ ] Understand how to route user requests on the front end with React Router and on the backend with Express
 - [ ] Build reusable user inputs with Redux Form, complete with navigation
-- [ ] Handle credit cards and receive payments from your users with Stripe
+- [ ] Handle credit cards and receive payments from users with Stripe
 - [ ] Engage users with automated emails
 - [ ] Enhance authentication flows in app with Google OAuth authentication
 - [ ] Separate production and development resources with advanced API key handling techniques
