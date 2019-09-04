@@ -22,3 +22,6 @@ Build a large feedback-collection app. This mega app will include the full gamut
 
 
 ![picture alt](https://camo.githubusercontent.com/d0003df6bcbb4850920c3540c1b3400d4515bd29/687474703a2f2f7777772e6272696768746c6967687470696374757265732e636f6d2f6173736574732f696d616765732f706f7274666f6c696f2f746865746861775f6865616465722e6a7067 "Enjoy!")
+
+
+I got here by Stephen Grider, Udemy Instructor, am newbie to most of the stuff in here and none of this would have been possible without his tutor on udemy and am grateful taking this course.
