@@ -38,7 +38,7 @@ class SurveyList extends Component {
     }
 }
 
-function mapStateToProps({surveys}){
+function mapStateToProps({ surveys }){
     return { surveys };
 }
 
